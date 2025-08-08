@@ -1,5 +1,5 @@
-# Excel_data-analysis_projects
-## Sales Data Analysis  
+
+# Sales Data Analysis  
 Interactive Excel analysis of restaurant sales (Kaggle) to surface top trends and performance insights.  
 
 ## Overview  
