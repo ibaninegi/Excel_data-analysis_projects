@@ -1,20 +1,29 @@
 # Excel_data-analysis_projects
-Sales Data Analysis
-This project analyzes restaurant sales data (sourced from Kaggle) to uncover key business insights such as top-performing cities, best sales managers, most-sold products, popular payment methods, and purchase type comparisons.
+Sales Data Analysis:Interactive Excel analysis of restaurant sales (Kaggle) to surface top trends and performance insights.
 
-The dataset contains details like order ID, date, product, price, quantity, city, purchase type, payment method, and manager name.
+Overview
+A concise analysis of restaurant sales data to identify where revenue comes from and which factors drive it. Focused on clear, actionable insights for operations and management.
 
-Workflow:
+Dataset
+Source: Kaggle —https://www.kaggle.com/datasets/rohitgrewal/restaurant-sales-data
+Key columns: order_id, date, product, price, quantity, city, purchase_type, payment_method, manager_name
 
-Data Cleaning – handled missing values, corrected formatting in Excel.
+Key questions answered
+Which city generates the highest sales?
 
-Data Processing & Analysis – used Pivot Tables to explore sales trends.
+Who is the best-performing manager by total sales?
 
-Interactive Filtering – added slicers for city, manager, product, and date.
+Which product has the highest quantity sold?
 
-Insights Generated – identified top city by sales, best-performing manager, most-sold product, most popular payment method, and purchase type patterns.
+What is the most popular payment method?
 
-Tools Used: Microsoft Excel (Pivot Tables, Slicers, Charts)
+Comparision of types of purchases made.
 
+Approach
+Clean and preprocess data in Excel
 
+Exploratory analysis using Pivot Tables and charts
 
+Interactive filtering via Slicers for quick stakeholder queries
+
+Summarize insights in a short report
