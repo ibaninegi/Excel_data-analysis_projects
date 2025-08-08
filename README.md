@@ -1,9 +1,9 @@
 # Excel_data-analysis_projects
 Sales Data Analysis:Interactive Excel analysis of restaurant sales (Kaggle) to surface top trends and performance insights.
-
+//
 Overview
 A concise analysis of restaurant sales data to identify where revenue comes from and which factors drive it. Focused on clear, actionable insights for operations and management.
-
+//
 Dataset
 Source: Kaggle —https://www.kaggle.com/datasets/rohitgrewal/restaurant-sales-data
 Key columns: order_id, date, product, price, quantity, city, purchase_type, payment_method, manager_name
